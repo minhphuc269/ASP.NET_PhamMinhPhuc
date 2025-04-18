@@ -199,3 +199,5 @@ C:\Phúc\ASP.NET\PhamMinhPhuc_2122110044\bin\Debug\net8.0\runtimes\win\lib\net6.
 C:\Phúc\ASP.NET\PhamMinhPhuc_2122110044\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Phúc\ASP.NET\PhamMinhPhuc_2122110044\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Phúc\ASP.NET\PhamMinhPhuc_2122110044\obj\Debug\net8.0\PhamMinhPhuc_2122110044.sourcelink.json
+C:\Phúc\ASP.NET\PhamMinhPhuc_2122110044\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Phúc\ASP.NET\PhamMinhPhuc_2122110044\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
